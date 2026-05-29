@@ -1,0 +1,4 @@
+Ali;2
+sara;6
+Zahra;14
+suphia;2
